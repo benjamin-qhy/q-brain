@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/nvk/llm-wiki/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/nvk/llm-wiki/commits/master.atom"/>
+  <title>Recent Commits to llm-wiki:master</title>
+  <updated>2026-09-15T14:48:27Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1224fbcdf3827f4ba56d225a9e359f5e8a5594e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/1224fbcdf3827f4ba56d225a9e359f5e8a5594e5"/>
+    <title>
+        Update README with v0.25.0 changelog
+    </title>
+    <updated>2026-09-15T14:48:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README with v0.25.0 changelog&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2b23e617ebf47255676f172a0bdd7599dce64325</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/2b23e617ebf47255676f172a0bdd7599dce64325"/>
+    <title>
+        Bump to v0.25.0
+    </title>
+    <updated>2026-09-15T14:44:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump to v0.25.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee2915effb4bcd1623e14cab815d6f0b8cb92162</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/ee2915effb4bcd1623e14cab815d6f0b8cb92162"/>
+    <title>
+        Merge pull request #99 from emercons/fix/codex-home-isolation
+    </title>
+    <updated>2026-09-15T14:35:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #99 from emercons/fix/codex-home-isolation
+
+codex: keep --user-home from installing into the real user profile&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/91ce2e621b7a652fbc48d22cd2933d4a614cab8f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/91ce2e621b7a652fbc48d22cd2933d4a614cab8f"/>
+    <title>
+        Verify extended and logical Codex skill paths
+    </title>
+    <updated>2026-09-15T14:35:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Verify extended and logical Codex skill paths&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4336ef7fd95fb32fab789565fad507872584f7c5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/4336ef7fd95fb32fab789565fad507872584f7c5"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into review/pr99
+    </title>
+    <updated>2026-09-15T14:33:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into review/pr99&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1f8b7a403ffb3c32776e3a08c43c4b751d4e8693</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/1f8b7a403ffb3c32776e3a08c43c4b751d4e8693"/>
+    <title>
+        Merge pull request #98 from emercons/fix/honour-home-on-windows
+    </title>
+    <updated>2026-09-15T14:31:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #98 from emercons/fix/honour-home-on-windows
+
+hub: honour HOME when expanding ~, on every platform&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea921fd681b4be2b92fa957ef353a36b3436ada1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/ea921fd681b4be2b92fa957ef353a36b3436ada1"/>
+    <title>
+        Sync HOME resolution into packaged runtimes
+    </title>
+    <updated>2026-09-15T14:31:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Sync HOME resolution into packaged runtimes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4cf78f40101d945b9ed29807e0a4afce2bf0a2f4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/4cf78f40101d945b9ed29807e0a4afce2bf0a2f4"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into review/pr98
+    </title>
+    <updated>2026-09-15T14:30:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into review/pr98&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a59b156965df3920cac113c9ff20da71969463a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/7a59b156965df3920cac113c9ff20da71969463a"/>
+    <title>
+        Merge pull request #97 from emercons/fix/session-state-atomic-write-w…
+    </title>
+    <updated>2026-09-15T14:30:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #97 from emercons/fix/session-state-atomic-write-windows
+
+session: don&amp;#39;t lose state writes when a replace meets an open reader&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/86f1adfe9d692734f8806246b9876d0278df9334</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/86f1adfe9d692734f8806246b9876d0278df9334"/>
+    <title>
+        Fail closed after persistent session read denials
+    </title>
+    <updated>2026-09-15T14:29:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fail closed after persistent session read denials&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9d95d710f9f729c2a628b2c3bda8e57152e57dae</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/9d95d710f9f729c2a628b2c3bda8e57152e57dae"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into review/pr97
+    </title>
+    <updated>2026-09-15T14:29:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into review/pr97&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/887cadcedcd190c81619cf06654d1ab6426f5e83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/887cadcedcd190c81619cf06654d1ab6426f5e83"/>
+    <title>
+        Merge pull request #95 from emercons/feat/lint-fail-on
+    </title>
+    <updated>2026-09-15T14:28:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #95 from emercons/feat/lint-fail-on
+
+lint: add --fail-on so the exit code can gate on protocol violations&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9592c41a2800a1c7469dff22310e1722676f6e92</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/9592c41a2800a1c7469dff22310e1722676f6e92"/>
+    <title>
+        Keep lint fail-on test portable to BSD sed
+    </title>
+    <updated>2026-09-15T14:28:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Keep lint fail-on test portable to BSD sed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/593fc11f88e1044119f32376e87d05630c88b79c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/593fc11f88e1044119f32376e87d05630c88b79c"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into review/pr95
+    </title>
+    <updated>2026-09-15T14:27:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into review/pr95&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/73c33b56772346fcb74ba00f36c80f86d49328b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/73c33b56772346fcb74ba00f36c80f86d49328b2"/>
+    <title>
+        Merge pull request #89 from nvk/fix/raw-source-path-lint
+    </title>
+    <updated>2026-09-15T14:27:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #89 from nvk/fix/raw-source-path-lint
+
+Fix raw source path linting without provenance false positives&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5681ad23ca3d9f143cac3e9fc18bdb829db24da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/d5681ad23ca3d9f143cac3e9fc18bdb829db24da"/>
+    <title>
+        Cover project-local and Windows raw source paths
+    </title>
+    <updated>2026-09-15T14:26:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cover project-local and Windows raw source paths&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dc55ec2daf6ce14c1a869d370176fd338ec97fe6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/dc55ec2daf6ce14c1a869d370176fd338ec97fe6"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into fix/raw-source-path…
+    </title>
+    <updated>2026-09-15T14:25:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into fix/raw-source-path-lint&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/75dd6009684ac5c02dd46b29dc5b1167052acac9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/75dd6009684ac5c02dd46b29dc5b1167052acac9"/>
+    <title>
+        Merge pull request #92 from emercons/fix/portable-plugin-sync
+    </title>
+    <updated>2026-09-15T14:24:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #92 from emercons/fix/portable-plugin-sync
+
+Make plugin sync work off Windows-friendly primitives&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f85581b9868debf718c7eae35068412320ebf299</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/f85581b9868debf718c7eae35068412320ebf299"/>
+    <title>
+        Keep sync scripts compatible with Python 3.9
+    </title>
+    <updated>2026-09-15T14:24:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Keep sync scripts compatible with Python 3.9&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cedd7d25177e2b56b3b8bf994b5f03b0b9d6a851</id>
+    <link type="text/html" rel="alternate" href="https://github.com/nvk/llm-wiki/commit/cedd7d25177e2b56b3b8bf994b5f03b0b9d6a851"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into review/pr92
+    </title>
+    <updated>2026-09-15T14:24:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/797193?s=30&amp;v=4"/>
+    <author>
+      <name>nvk</name>
+      <uri>https://github.com/nvk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into review/pr92&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

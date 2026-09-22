@@ -1,0 +1,204 @@
+{
+  "retrieved_at": "2026-09-22T12:08:00.489185+00:00",
+  "source": "GitHub REST repositories API",
+  "projects": [
+    {
+      "repo": "MemPalace/mempalace",
+      "full_name": "MemPalace/mempalace",
+      "html_url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stargazers_count": 59220,
+      "forks_count": 7566,
+      "open_issues_count": 741,
+      "created_at": "2026-04-05T01:12:07Z",
+      "updated_at": "2026-09-22T12:05:37Z",
+      "pushed_at": "2026-09-22T11:44:14Z",
+      "archived": false,
+      "default_branch": "develop",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": "Python"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "full_name": "topoteretes/cognee",
+      "html_url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stargazers_count": 30906,
+      "forks_count": 3084,
+      "open_issues_count": 483,
+      "created_at": "2023-08-16T16:16:33Z",
+      "updated_at": "2026-09-22T11:51:54Z",
+      "pushed_at": "2026-09-22T11:43:41Z",
+      "archived": false,
+      "default_branch": "main",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": "Python"
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "full_name": "garrytan/gbrain",
+      "html_url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "stargazers_count": 30224,
+      "forks_count": 4519,
+      "open_issues_count": 375,
+      "created_at": "2026-04-05T14:40:56Z",
+      "updated_at": "2026-09-22T12:07:27Z",
+      "pushed_at": "2026-09-22T02:53:09Z",
+      "archived": false,
+      "default_branch": "master",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": "TypeScript"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "html_url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stargazers_count": 28698,
+      "forks_count": 2491,
+      "open_issues_count": 603,
+      "created_at": "2026-02-25T07:32:52Z",
+      "updated_at": "2026-09-22T11:06:44Z",
+      "pushed_at": "2026-09-21T06:13:05Z",
+      "archived": false,
+      "default_branch": "main",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": "TypeScript"
+    },
+    {
+      "repo": "nashsu/llm_wiki",
+      "full_name": "nashsu/llm_wiki",
+      "html_url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "stargazers_count": 19860,
+      "forks_count": 2242,
+      "open_issues_count": 294,
+      "created_at": "2026-04-08T11:24:01Z",
+      "updated_at": "2026-09-22T11:47:07Z",
+      "pushed_at": "2026-08-25T06:42:02Z",
+      "archived": false,
+      "default_branch": "main",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "language": "TypeScript"
+    },
+    {
+      "repo": "AgriciDaniel/claude-obsidian",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stargazers_count": 15132,
+      "forks_count": 1506,
+      "open_issues_count": 21,
+      "created_at": "2026-04-07T08:59:37Z",
+      "updated_at": "2026-09-22T11:15:16Z",
+      "pushed_at": "2026-09-10T17:44:23Z",
+      "archived": false,
+      "default_branch": "main",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": "Python"
+    },
+    {
+      "repo": "SamurAIGPT/llm-wiki-agent",
+      "full_name": "SamurAIGPT/llm-wiki-agent",
+      "html_url": "https://github.com/SamurAIGPT/llm-wiki-agent",
+      "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
+      "stargazers_count": 3555,
+      "forks_count": 408,
+      "open_issues_count": 5,
+      "created_at": "2023-04-21T08:31:00Z",
+      "updated_at": "2026-09-22T08:21:33Z",
+      "pushed_at": "2026-09-21T08:59:04Z",
+      "archived": false,
+      "default_branch": "main",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": "Python"
+    },
+    {
+      "repo": "Astro-Han/karpathy-llm-wiki",
+      "full_name": "Astro-Han/karpathy-llm-wiki",
+      "html_url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+      "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
+      "stargazers_count": 2331,
+      "forks_count": 278,
+      "open_issues_count": 7,
+      "created_at": "2026-04-05T06:17:20Z",
+      "updated_at": "2026-09-22T10:45:27Z",
+      "pushed_at": "2026-07-23T16:57:44Z",
+      "archived": false,
+      "default_branch": "main",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": "Python"
+    },
+    {
+      "repo": "nvk/llm-wiki",
+      "full_name": "nvk/llm-wiki",
+      "html_url": "https://github.com/nvk/llm-wiki",
+      "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation. ",
+      "stargazers_count": 1331,
+      "forks_count": 124,
+      "open_issues_count": 26,
+      "created_at": "2026-04-04T23:52:25Z",
+      "updated_at": "2026-09-22T11:14:41Z",
+      "pushed_at": "2026-09-15T14:48:29Z",
+      "archived": false,
+      "default_branch": "master",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": "Python"
+    }
+  ]
+}

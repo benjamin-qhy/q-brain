@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Astro-Han/karpathy-llm-wiki/commits/main</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commits/main"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Astro-Han/karpathy-llm-wiki/commits/main.atom"/>
+  <title>Recent Commits to karpathy-llm-wiki:main</title>
+  <updated>2026-07-23T16:57:31Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eafcc77001e496cc43499e4923b663aec722c813</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/eafcc77001e496cc43499e4923b663aec722c813"/>
+    <title>
+        fix: align log inventory and examples
+    </title>
+    <updated>2026-07-23T16:57:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: align log inventory and examples&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/36b1eb7ee02daa6e63b962a7ae4051daac84f943</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/36b1eb7ee02daa6e63b962a7ae4051daac84f943"/>
+    <title>
+        fix: close typed evidence candidate matching
+    </title>
+    <updated>2026-07-23T16:56:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: close typed evidence candidate matching&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2e88ef6a52da87ef35877478e45c7db7c1aa9632</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/2e88ef6a52da87ef35877478e45c7db7c1aa9632"/>
+    <title>
+        fix: centralize fence-aware document structure
+    </title>
+    <updated>2026-07-23T16:51:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: centralize fence-aware document structure&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9340c1f58181b5fc48020c7e5450da144bbaf5da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/9340c1f58181b5fc48020c7e5450da144bbaf5da"/>
+    <title>
+        fix: close the candidate set and hold examples to it
+    </title>
+    <updated>2026-07-23T16:10:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: close the candidate set and hold examples to it
+
+Tokenizer rewritten in closed form (strict thousands grouping, dotted
+tokens as a whole) and frozen: quotes, ISO dates, and specific number
+forms are the documented candidate set; new prose forms extend the
+docstring, not the regexes. Quote pairing no longer skips short pairs
+into phantom quotes. Raw links parse only from the fenced-stripped
+header. Skip-files applies only to root-level index/log. Body
+blockquotes join the quote channel. Fence openers are indent-limited.
+
+Examples now honor their own invariant: two fabricated quotes restored
+to the raw wording, the market-data date moved into the raw body, and
+the index example rewritten as a real global-index excerpt. A smoke
+test assembles the examples and demands zero suspects, so the samples
+stay under their own contract. Archive pages get a defined index date
+(their Archived field) for lint cross-checks.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad9a5a786fc17ba97c4197d1076e6292d41afc18</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/ad9a5a786fc17ba97c4197d1076e6292d41afc18"/>
+    <title>
+        fix: close contract gaps between skill, templates, and examples
+    </title>
+    <updated>2026-07-23T15:18:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: close contract gaps between skill, templates, and examples
+
+- The invariant now states honestly that the script checks the
+  high-signal literal subset; compile-time locate-before-write covers
+  the rest.
+- See Also links get a single authority: internal-links rules no
+  longer cover them, and their own rule handles rename-fix, removal,
+  and ambiguity reporting.
+- Malformed Status judgment matches the template: only Outdated
+  requires a date.
+- Articles gain a required Updated metadata field, closing the loop
+  with cascade rules that refresh it and giving lint a mechanical
+  cross-check for index Updated dates (new auto-fix rule).
+- Examples align with current schemas: Sources plural, Published in
+  raw, Updated in article and index.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3b7c68fee015a65f7b9f8ab64373e40bfbba5ae</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/e3b7c68fee015a65f7b9f8ab64373e40bfbba5ae"/>
+    <title>
+        fix: close verification escapes and false-suspect sources
+    </title>
+    <updated>2026-07-23T15:15:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: close verification escapes and false-suspect sources
+
+- Sentence-final punctuation in the raw no longer blocks matching;
+  the boundary only rejects continuations that form a different value.
+  This was a regression from the boundary fix itself and would have
+  flooded reports with verbatim facts.
+- Raw links must resolve inside raw/; anything else is an evidence
+  error, since the invariant&amp;#39;s permanence rests on raw immutability.
+- No-material suppression is anchored to ingest entry headings, so
+  prose mentions elsewhere in the log cannot hide backlog.
+- Metadata semantics are scoped to the header block after the H1:
+  an Archived line in the body no longer grants exemption, and
+  metadata-shaped lines in a raw file&amp;#39;s body stay evidence.
+- Status blocks are skipped wholesale, including their explanation
+  lines, which legitimately cite newer sources outside the article&amp;#39;s
+  own Raw links.
+- Fence stripping handles tilde and 3+-backtick fences via a state
+  machine; candidate tokens are whitespace-normalized before dedup;
+  index/log args are skipped even when passed explicitly; articles
+  are checked once, not twice.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f8e592f9798603e6b45cf145d67f05d5b46a092c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/f8e592f9798603e6b45cf145d67f05d5b46a092c"/>
+    <title>
+        docs: bring examples and install instructions up to current protocol
+    </title>
+    <updated>2026-07-23T14:47:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: bring examples and install instructions up to current protocol
+
+log-sample.md now shows the real entry types (ingest with Disposition
+and Raw, no-material with full path, archived query, lint) instead of
+the retired Compile/Update vocabulary that referenced directories this
+skill does not use. Manual install instructions include scripts/ so
+the evidence checker actually ships.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/19b342b9819740dc821a57d22902d47059059ba9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/19b342b9819740dc821a57d22902d47059059ba9"/>
+    <title>
+        fix: align skill contract with the checker
+    </title>
+    <updated>2026-07-23T14:46:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: align skill contract with the checker
+
+- No-material log entries record the full raw path and the script
+  matches on it, so same-named files elsewhere are no longer wrongly
+  exempted from the backlog report.
+- The invariant drops incremental lint state: the script re-checks the
+  whole wiki in seconds, which also removes the touched-set
+  reconstruction problem and the vanishing-unresolved-suspect hole.
+- Status block checks move to Judgment Reports; nothing consumes them
+  mechanically yet, so a mechanical sweep would guard a hypothetical.
+- Research is gated to explicit research/ingest requests, resolving
+  the routing contradiction with read-only Query.
+- Mechanical Reports invoke the script via python3 (works without an
+  exec bit) and name the argument &amp;lt;project-root&amp;gt;.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3556cf45fa5dc5d069f3c00da36a8926e541c723</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/3556cf45fa5dc5d069f3c00da36a8926e541c723"/>
+    <title>
+        fix: make the evidence checker actually check
+    </title>
+    <updated>2026-07-23T14:44:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: make the evidence checker actually check
+
+- Boundary matching: &amp;#39;42K&amp;#39; no longer passes against &amp;#39;142K&amp;#39; in the raw,
+  closing the substring false-pass on the exact transcription-error
+  class the checker exists for.
+- Coverage: decimals and 4+ digit numbers (incl. bare years) are now
+  candidates; small plain integers stay out of scope by design and the
+  boundary is documented in the docstring.
+- Fenced code is stripped before extraction (line-by-line processing
+  made the multiline regex useless), and Status/Archived metadata
+  lines no longer produce marker-date false suspects.
+- Raw files are matched without their collection-metadata header, so a
+  Collected date cannot false-pass an article&amp;#39;s claim about that year.
+- Evidence errors are reported instead of silently passing: ordinary
+  articles without a Raw field, and Raw links that do not resolve.
+- Article path arguments resolve against the project root, and missing
+  files are warnings, not tracebacks.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ed7327fa6a199a991bfab66887f56b125e163813</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/ed7327fa6a199a991bfab66887f56b125e163813"/>
+    <title>
+        docs: add design boundaries section to README
+    </title>
+    <updated>2026-07-23T14:14:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: add design boundaries section to README
+
+Public record of what was deliberately not built and why (source
+hashes, persisted line anchors, numeric confidence, review dates,
+decay, retract machinery, hooks, vector/graph search, typed relations,
+OKF, MCP/UIs), grounded in production logs and ecosystem research.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dcc4ec415fe47fde349fe4d44a0ac02f86e0b828</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/dcc4ec415fe47fde349fe4d44a0ac02f86e0b828"/>
+    <title>
+        feat: guard against false absence and add research discipline
+    </title>
+    <updated>2026-07-23T14:10:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: guard against false absence and add research discipline
+
+Query may only claim the wiki lacks relevant content after both the
+index and a synonym-aware full-text search come back empty. Research
+(multi-source ingest) gets a minimal section: wide-net search with
+synonyms, opposing-evidence search for core claims, parallel search
+allowed but strictly sequential compilation because index/log/cascades
+are shared state.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aa4d3597cc2bde4603f0a9393cd66e0e01b1c66f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/aa4d3597cc2bde4603f0a9393cd66e0e01b1c66f"/>
+    <title>
+        feat: add status blocks and full-wiki cascade search
+    </title>
+    <updated>2026-07-23T14:09:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: add status blocks and full-wiki cascade search
+
+Superseded and disputed claims now get fixed-format Status blocks
+(Outdated / Disputed) instead of freeform prose notes, so readers and
+lint can recognize them mechanically. Cascade updates no longer scan
+only the same topic directory and index entries; they grep the full
+wiki for the source&amp;#39;s entities, aliases, and affected claims, which is
+where outdated claims used to hide until a human tripped over them.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/959bbb3858de1857e2146c895f6256abf6d99682</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/959bbb3858de1857e2146c895f6256abf6d99682"/>
+    <title>
+        feat: add grounding invariant with mechanical evidence checker
+    </title>
+    <updated>2026-07-23T14:08:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: add grounding invariant with mechanical evidence checker
+
+Every load-bearing fact (number, date, direct quote) must exist
+verbatim in the raw files an article links. Compile establishes the
+invariant (locate before write, exact literals, derived values show
+components); lint verifies it with scripts/check_evidence.py, which
+greps candidate literals against linked raws and reports misses plus
+unreferenced raw files. Lint is now three tiers: safe auto-fixes,
+mechanical reports (the script), judgment reports. Also moves adding
+See Also cross-references out of auto-fix, where judgment never
+belonged.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/01898a68fdd7cc6c7a9b13322e7fdb8fa4d0911f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/01898a68fdd7cc6c7a9b13322e7fdb8fa4d0911f"/>
+    <title>
+        feat: add ingest disposition triage with no-material stop path
+    </title>
+    <updated>2026-07-23T14:01:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: add ingest disposition triage with no-material stop path
+
+Replace the unconditional fetch+compile rule with a disposition
+(New / Update / Disputed / No material) stated after a wiki search.
+No-material sources stay in raw/ and are logged with their disposition,
+so thin sources no longer get forced into articles and lint can later
+tell disposed stock from genuinely unreferenced raw files.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9e8c4f44ce8d8f154494844a860cc6e9e49c8642</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/9e8c4f44ce8d8f154494844a860cc6e9e49c8642"/>
+    <title>
+        docs: streamline README for readability while preserving SEO structure
+    </title>
+    <updated>2026-04-13T01:37:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: streamline README for readability while preserving SEO structure&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7566892f322307a6eb3ec8ba6d7d54bd1caef8aa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/7566892f322307a6eb3ec8ba6d7d54bd1caef8aa"/>
+    <title>
+        docs: improve github seo copy
+    </title>
+    <updated>2026-04-12T17:01:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: improve github seo copy&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/637eccaa151ce3876632f6ad2fc0511110e8e48a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/637eccaa151ce3876632f6ad2fc0511110e8e48a"/>
+    <title>
+        docs: translate example files from Chinese to English
+    </title>
+    <updated>2026-04-12T16:54:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: translate example files from Chinese to English
+
+- Translate 2026-03-19-claude-code-statusline-landscape.md (148 lines)
+- Fix mixed Chinese/English in claude-code-statusline-landscape.md (Impact section)
+- All example files now uniformly in English&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/76eafef9b127ea2010585c79fb9cf4e776e0bede</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/76eafef9b127ea2010585c79fb9cf4e776e0bede"/>
+    <title>
+        docs: add GEO optimization for AI citation
+    </title>
+    <updated>2026-04-12T16:47:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: add GEO optimization for AI citation
+
+- Add FAQ section (6 Q&amp;amp;As covering key concepts)
+- Add Key Takeaways summary box
+- Add definition statements (This skill is..., Agent Skills is..., LLM Wiki is...)
+- Add precise citation format (April 4, 2026, 2,100+ stars)
+- Reduce keyword density from 3.8% to 0.9%
+- Increase total word count from 551 to 885 (+60%)
+- GEO score: 53 → 70+ estimated&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7f2e2ae64a135a00c828798876684d430e6dc5bb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/7f2e2ae64a135a00c828798876684d430e6dc5bb"/>
+    <title>
+        docs: optimize README for SEO and discoverability
+    </title>
+    <updated>2026-04-12T16:12:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: optimize README for SEO and discoverability
+
+- Add social badges (stars, forks, install)
+- Update subtitle to highlight tool compatibility
+- Optimize H2 headers with keywords
+- Add links to SKILL.md and SPEC.md
+- Add OpenCode compatibility and alternative implementations
+- Repository topics updated (7→15, +karpathy, llm-wiki, mcp, rag, etc)
+- Description updated with battle-tested metrics&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6b94cc1bab26c10de5abd0550dcb937a08e040b7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Astro-Han/karpathy-llm-wiki/commit/6b94cc1bab26c10de5abd0550dcb937a08e040b7"/>
+    <title>
+        chore: exclude PROMOTION.md from tracking (internal log)
+    </title>
+    <updated>2026-04-12T13:24:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/255364436?s=30&amp;v=4"/>
+    <author>
+      <name>Astro-Han</name>
+      <uri>https://github.com/Astro-Han</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: exclude PROMOTION.md from tracking (internal log)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

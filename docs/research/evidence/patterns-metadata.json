@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-09-22T12:09:30.501957+00:00",
+  "method": "GitHub public HTML star title; commit Atom feed; raw LICENSE. GitHub REST API returned 403 rate limit.",
+  "projects": [
+    {
+      "repo": "Astro-Han/karpathy-llm-wiki",
+      "stars": 2331,
+      "branch": "main"
+    },
+    {
+      "repo": "nvk/llm-wiki",
+      "stars": 1332,
+      "branch": "master"
+    }
+  ],
+  "gist": {
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "public_stars_label": "5,000+",
+    "revisions": 1,
+    "exact_star_count": "unverified",
+    "license": "no explicit license observed in gist text"
+  }
+}

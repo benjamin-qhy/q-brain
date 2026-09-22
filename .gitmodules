@@ -1,0 +1,15 @@
+[submodule "references/claude-obsidian"]
+	path = references/claude-obsidian
+	url = https://github.com/AgriciDaniel/claude-obsidian.git
+[submodule "references/cognee"]
+	path = references/cognee
+	url = https://github.com/topoteretes/cognee.git
+[submodule "references/gbrain"]
+	path = references/gbrain
+	url = https://github.com/garrytan/gbrain.git
+[submodule "references/karpathy-llm-wiki"]
+	path = references/karpathy-llm-wiki
+	url = https://gist.github.com/442a6bf555914893e9891c11519de94f.git
+[submodule "references/llm_wiki"]
+	path = references/llm_wiki
+	url = https://github.com/nashsu/llm_wiki.git
